@@ -17,4 +17,4 @@
 .idea
 *.iml
 # 也会会直接忽略target目录
-*/target/
+**/target/

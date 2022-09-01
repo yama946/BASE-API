@@ -8,10 +8,11 @@
     <artifactId>javase-base-api-parent</artifactId>
     <version>1.0.0-RELEASE</version>
     <modules>
-        <module>api-001-date</module>
+        <module>api-001</module>
     </modules>
 
     <packaging>pom</packaging>
+    <description>测试</description>
 
     <dependencies>
         <dependency>
